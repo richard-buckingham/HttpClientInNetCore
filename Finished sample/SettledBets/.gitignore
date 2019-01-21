@@ -3,9 +3,8 @@
 ################################################################################
 
 /.vs
-/Finished sample/.vs
-/Finished sample/Marvin.IDP/obj
-/Finished sample/Movies.API/bin/Debug/netcoreapp2.1
+/obj
+/bin/Debug/netcoreapp2.1
 /Finished sample/Movies.API/obj
 /Finished sample/Movies.Client/bin/Debug
 /Finished sample/Movies.Client/obj
